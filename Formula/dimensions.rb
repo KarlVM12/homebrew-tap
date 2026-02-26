@@ -3,6 +3,7 @@ class Dimensions < Formula
   homepage "https://github.com/KarlVM12/Dimensions"
   url "https://github.com/KarlVM12/Dimensions/archive/refs/tags/v0.2.20.tar.gz"
   sha256 "52747d61d830dc5b2b689b8e93265e9112bd586bd5ee4bdb4066c7e8a3ef7aa2"
+  version "0.2.20"
   license "MIT"
 
   depends_on "rust" => :build
